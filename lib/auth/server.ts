@@ -1,0 +1,1 @@
+export { currentAdminUser } from './session';
